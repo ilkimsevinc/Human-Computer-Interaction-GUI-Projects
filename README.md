@@ -1,1 +1,1 @@
-# Human-Computer-Interaction-GUI-Projects
+# COMP2501 Human Computer Interaction GUI Projects
